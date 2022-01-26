@@ -28,7 +28,6 @@ pipenv==2022.1.8
 platformdirs==2.4.1
 PyAutoGUI==0.9.50
 PyDictionary==1.5.2
-pyenchant==2.0.0
 PyGetWindow==0.0.8
 pyhash==0.9.3
 pylint==2.4.3
