@@ -1,1 +1,6 @@
 urls.db
+/activate
+/include
+/lib
+pyvenv.cfg
+/bin
