@@ -63,7 +63,7 @@ def redirection(short_url):
     else:
             return f'<h1>URL doesn\'t exist </h1>'
 if __name__ == '__main__':
-    app.run(port=5000, debug=True)
+    app.run(debug=True)
 
 #post more secure
 #get less secure
